@@ -1,0 +1,14 @@
+![](http://qiniu.mcgoldfish.com/image/1/aPEZugiusg0Wcc12xAJzn1kF7PqdENNXh77Iwbw7.png)
+
+## 概述
+  chrome浏览器，有时候会缓存301跳转。有时候可以提高性能，但是有时候却很蛋疼，所以要有办法可以清除这个缓存
+
+## 操作步骤
+
+![](http://qiniu.mcgoldfish.com/image/1/9Rcn1BTDsgnLAfQRzov4tCVS6vR4TmeyiLTzlvjZ.png)
+
+![](http://qiniu.mcgoldfish.com/image/1/9Rcn1BTDsgnLAfQRzov4tCVS6vR4TmeyiLTzlvjZ.png)
+1. 打开控制台
+2. 点击右上角的3个点图标
+3. 选择 `settings`
+4. 选择 `Disable cache`
